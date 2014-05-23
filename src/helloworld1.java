@@ -18,5 +18,6 @@ public class helloworld1 {
         System.out.println("Hello, World!");
         System.out.println("Mofified");
         System.out.println("Twice");
+        System.out.println("Thrice);
     }    
 }
